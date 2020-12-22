@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi 👋, I'm André
+
+- 🔭 I’m currently working on my dissertation, **Natural Interaction in Immersive 360º Experiences**
+- 🌱 I’m currently learning Unreal Engine 4
+- ⚡ Fun fact: Advent of Code fan
+- 📫 How to reach me: **andreesteves111@gmail.com**
+
+[EstevesAndre-stats](https://github-readme-stats.vercel.app/api?username=EstevesAndre&show_icons=true&locale=en)
 
 <!--
 **EstevesAndre/EstevesAndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
