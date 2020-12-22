@@ -1,7 +1,7 @@
 ### Hi 👋, I'm André
 
 - 🔭 I’m currently working on my dissertation, **Natural Interaction in Immersive 360º Experiences**
-- 🌱 I’m currently learning Unreal Engine 4
+- 🌱 I’m currently learning Unreal Engine 4 & WebXR
 - ⚡ Fun fact: Advent of Code fan
 - 📫 How to reach me: **andreesteves111@gmail.com**
 
