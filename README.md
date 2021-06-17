@@ -1,6 +1,7 @@
 ### Hi 👋, I'm André
 
-- 🔭 I’m currently working on my dissertation, **Natural Interaction in Immersive 360º Experiences**
+- 🔭 I’m currently working on my dissertation, **Immersive editing of 360º Experiences**
+- ✨ Full stack developer (React, Vue), Three.JS, Virtual Reality, Web Scrapping and Scripting automation
 - 🌱 I’m currently learning Unreal Engine 4 & WebXR
 - ⚡ Fun fact: Advent of Code fan
 - 📫 How to reach me: **andreesteves111@gmail.com**
