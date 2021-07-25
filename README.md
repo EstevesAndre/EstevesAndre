@@ -1,8 +1,8 @@
 ### Hi 👋, I'm André
 
-- 🔭 I’m currently working on my dissertation, **Immersive editing of 360º Experiences**
-- ✨ Full stack developer (React, Vue), Three.JS, Virtual Reality, Web Scrapping and Scripting automation
-- 🌱 I’m currently learning Unreal Engine 4 & WebXR
+- 🔭 Master Degree in Computer Science. Thesis subject: **Immersive editing of 360º Experiences**
+- ✨ Front-end developer (React, Vue), Three.JS, Virtual Reality, Web Scrapping and Scripting automation
+- 🌱 I’m currently mastering web technologies 4 & WebXR
 - ⚡ Fun fact: Advent of Code fan
 - 📫 How to reach me: **andreesteves111@gmail.com**
 
