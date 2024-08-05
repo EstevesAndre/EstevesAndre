@@ -1,10 +1,14 @@
-### Hi 👋, I'm André
+### Hi 👋, I'm André Esteves
 
-- 🔭 Master Degree in Computer Science. Thesis subject: **Immersive editing of 360º Experiences**
-- ✨ Front-end developer (React, Vue), Three.JS, Virtual Reality, Web Scrapping and Scripting automation
-- 🌱 I’m currently mastering web technologies 4 & WebXR
-- ⚡ Fun fact: Advent of Code fan
-- 📫 How to reach me: **andreesteves111@gmail.com**
+Curretnly working as Software Engineer at KAYAK in Berlin
+
+Entusiastic in lots of tech related subjects such:
+- 🔭 Eager for AR & VR tools and devices
+- 👯 Fan of Advent of code events
+- 💬 Using Next.js and unique tools to develop applications
+- 🌱 Discovering world of SaaS / PaaS
+
+📫 How to reach me: **andreesteves111@gmail.com**
 
 ![EstevesAndre-stats](https://github-readme-stats.vercel.app/api?username=EstevesAndre&show_icons=true&locale=en)
 
