@@ -1,6 +1,6 @@
 ### Hi 👋, I'm André Esteves
 
-Curretnly working as Software Engineer at KAYAK in Berlin
+Curretnly working as Senior Software Engineer at KAYAK in Berlin
 
 Entusiastic in lots of tech related subjects such:
 - 🔭 Eager for AR & VR tools and devices
