@@ -1,28 +1,19 @@
 ### Hi 👋, I'm André Esteves
 
-Curretnly working as Senior Software Engineer at KAYAK in Berlin
+Co-founder & Software Engineer at **Psilodigital** — building digital products that empower small and medium businesses through automation, AI-assistants, and modern web platforms.
 
-Entusiastic in lots of tech related subjects such:
-- 🔭 Eager for AR & VR tools and devices
-- 👯 Fan of Advent of code events
-- 💬 Using Next.js and unique tools to develop applications
-- 🌱 Discovering world of SaaS / PaaS
+Previously, I worked as a **Senior Software Engineer at KAYAK (Berlin)**. Today, I focus on creating meaningful technology for real-world industries (tourism, healthcare, education, personal services).
 
-📫 How to reach me: **andreesteves111@gmail.com**
+**What I’m building & exploring**
+- 🚀 AI-powered tools & digital automation for SMEs
+- 🧭 SaaS platforms using **Next.js, TypeScript, PostgreSQL, Docker**
+- 🤖 AI Agents, MCP, LLM integrations, workflow automation
+- 🛠️ Infrastructure with **Coolify / n8n / Edge functions**
+- 🌱 Designing scalable products with real business impact
 
-![EstevesAndre-stats](https://github-readme-stats.vercel.app/api?username=EstevesAndre&show_icons=true&locale=en)
+**Current mission**
+> Bring enterprise-level technology to small businesses that never had access to it.
 
-<!--
-**EstevesAndre/EstevesAndre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 Reach me: **andre@psilodigital.com**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![EstevesAndreStats](https://github-readme-stats.vercel.app/api?username=EstevesAndre&show_icons=true&locale=en)
