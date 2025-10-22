@@ -16,4 +16,7 @@ Previously, I worked as a **Senior Software Engineer at KAYAK (Berlin)**. Today,
 
 📫 Reach me: **andre@psilodigital.com**
 
+
+<!--
 ![EstevesAndreStats](https://github-readme-stats.vercel.app/api?username=EstevesAndre&show_icons=true&locale=en)
+-->
