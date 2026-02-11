@@ -8,7 +8,7 @@ Previously, I worked as a **Senior Software Engineer at KAYAK (Berlin)**. Today,
 - 🚀 AI-powered tools & digital automation for SMEs
 - 🧭 SaaS platforms using **Next.js, TypeScript, PostgreSQL, Docker**
 - 🤖 AI Agents, MCP, LLM integrations, workflow automation
-- 🛠️ Infrastructure with **Coolify / n8n / Edge functions**
+- 🛠️ Infrastructure with cutting edge AI tooling
 - 🌱 Designing scalable products with real business impact
 
 **Current mission**
