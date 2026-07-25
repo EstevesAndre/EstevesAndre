@@ -1,6 +1,6 @@
 ### Hi 👋, I'm André Esteves
 
-Co-founder & Software Engineer at **Psilodigital** — building digital products that empower small and medium businesses through automation, AI-assistants, and modern web platforms.
+Currently building digital products that empower small and medium businesses through automation, AI systems, and modern web platforms.
 
 Previously, I worked as a **Senior Software Engineer at KAYAK (Berlin)**. Today, I focus on creating meaningful technology for real-world industries (tourism, healthcare, education, personal services).
 
