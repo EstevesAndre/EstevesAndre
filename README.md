@@ -14,7 +14,7 @@ Previously, I worked as a **Senior Software Engineer at KAYAK (Berlin)**. Today,
 **Current mission**
 > Bring enterprise-level technology to small businesses that never had access to it.
 
-📫 Reach me: **andre@psilodigital.com**
+📫 Reach me: **andreesteves111@gmail.com**
 
 
 <!--
