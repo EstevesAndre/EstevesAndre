@@ -1,8 +1,6 @@
-### Hi 👋, I'm André Esteves
+### Founder @ Horaizen · Software & AI Solutions Architect
 
-Currently building digital products that empower small and medium businesses through automation, AI systems, and modern web platforms.
-
-Previously, I worked as a **Senior Software Engineer at KAYAK (Berlin)**. Today, I focus on creating meaningful technology for real-world industries (tourism, healthcare, education, personal services).
+Building custom business software, SaaS products, AI agents and automation systems.
 
 **What I’m building & exploring**
 - 🚀 AI-powered tools & digital automation for SMEs
@@ -14,7 +12,7 @@ Previously, I worked as a **Senior Software Engineer at KAYAK (Berlin)**. Today,
 **Current mission**
 > Bring enterprise-level technology to small businesses that never had access to it.
 
-📫 Reach me: **andreesteves111@gmail.com**
+📫 Reach me: **andre@horaizen.eu**
 
 
 <!--
